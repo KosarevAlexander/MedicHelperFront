@@ -1,0 +1,19 @@
+body {
+  background-color: #80ffd4;
+}
+.button {
+  width: max-content;
+  display: inline-flex;
+  margin: 25px;
+}
+.main {
+  margin: 30px auto;
+  width: max-content;
+  text-align: center;
+}
+.header {
+  margin: 10px auto;
+  width: max-content;
+  font-size: 24px;
+}
+/*# sourceMappingURL=style.m.css.map */

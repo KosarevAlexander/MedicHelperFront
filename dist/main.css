@@ -1,0 +1,31 @@
+.style-m__paper___39_R6 {
+  width: 100%;
+  height: 100%;
+}
+.style-m__main___2w_tv {
+  margin: 40px auto;
+  width: 500px;
+  height: 300px;
+  border: 3px solid #ffffff;
+  border-radius: 10px;
+}
+body {
+  background-color: #80ffd4;
+}
+.style-m__button___3pGcw {
+  width: max-content;
+  display: inline-flex;
+  margin: 25px;
+}
+.style-m__main___1c_wR {
+  margin: 30px auto;
+  width: max-content;
+  text-align: center;
+}
+.style-m__header___3kEnG {
+  margin: 10px auto;
+  width: max-content;
+  font-size: 24px;
+}
+
+/*# sourceMappingURL=main.css.map*/
